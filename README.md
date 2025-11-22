@@ -7,13 +7,15 @@ This tool uses `pytubefix` for downloading, `ffmpeg` for audio extraction, and p
 
 ---
 
-## 🖼 Screenshots (Optional)
+## 🖼 Screenshots 
 
 | Action            | Screenshot                                                                    |
 | ----------------- | ----------------------------------------------------------------------------- |
-| CLI Menu          | ![CLI Menu](https://via.placeholder.com/900x300?text=CLI+Menu)                |
-| Video Downloading | ![Downloading Video](https://via.placeholder.com/900x300?text=Downloading...) |
-| Folder Output     | ![Saved Files](https://via.placeholder.com/900x300?text=Files+Saved)          |
+| URL Enter CLI Menu| ![URL Enter CLI Menu](./server/screenshots/URLEnterYT.png)                    |
+| Media Selection   | ![Media Selection](./server/screenshots/MediaSeclectionYT.png)                    |
+| Formate Selection | ![Formate Selection](./server/screenshots/FormateSelection.png)                    |
+| Video Downloading | ![Downloading Video](./server/screenshots/MediaDownloading.png)                     |
+| Folder Output     | ![Saved Files](./server/screenshots/OutputYT2.png)                           |
 
 
 ## 🚀 Features
